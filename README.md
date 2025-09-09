@@ -1,8 +1,9 @@
 # HR
 
 HR Analytics Dashboard
-A. Introduction
 
+
+A. Introduction
 This project presents an Interactive & Dynamic HR Analytics Dashboard that provides valuable insights into workforce data. The dashboard helps HR managers and decision-makers analyze employee attrition, demographics, performance, income distribution, and job satisfaction. It transforms raw HR data into meaningful visual insights for data-driven decision-making.
 
 B. Key Features
