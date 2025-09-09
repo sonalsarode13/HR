@@ -7,70 +7,70 @@ This project presents an Interactive & Dynamic HR Analytics Dashboard that provi
 
 B. Key Features
 
-Overview of key HR metrics such as total employees, attrition, attrition rate, average age, and active employees
+1. Overview of key HR metrics such as total employees, attrition, attrition rate, average age, and active employees
 
-Attrition analysis by job role and department
+2. Attrition analysis by job role and department
 
-Employee distribution by business travel frequency and gender
+3. Employee distribution by business travel frequency and gender
 
-Workforce breakdown by age bands and education level
+4. Workforce breakdown by age bands and education level
 
-Analysis of monthly income by education field
+5. Analysis of monthly income by education field
 
-Job satisfaction ratings by job role and education
+6. Job satisfaction ratings by job role and education
 
-Overtime trends by job role
+7. Overtime trends by job role
 
-Interactive filters for department and age group
+8. Interactive filters for department and age group
 
 C. Insights from the Dashboard
 
-Attrition Analysis – Identify which job roles and departments face the highest attrition
+1. Attrition Analysis – Identify which job roles and departments face the highest attrition
 
-Employee Demographics – Understand workforce distribution across age groups, gender, and education levels
+2. Employee Demographics – Understand workforce distribution across age groups, gender, and education levels
 
-Workforce Productivity – Evaluate overtime trends and active employee count by job role
+3. Workforce Productivity – Evaluate overtime trends and active employee count by job role
 
-Compensation Insights – Analyze income distribution across different educational backgrounds
+4. Compensation Insights – Analyze income distribution across different educational backgrounds
 
-Job Satisfaction – Assess satisfaction ratings to identify areas for improvement in employee engagement
+5. Job Satisfaction – Assess satisfaction ratings to identify areas for improvement in employee engagement
 
 D. Tools & Technologies Used
 
-Power BI for dashboard design and data visualization
+1. Power BI for dashboard design and data visualization
 
-HR Analytics Dataset (structured employee records)
+2. HR Analytics Dataset (structured employee records)
 
-Data Cleaning & Transformation using Power Query
+3. Data Cleaning & Transformation using Power Query
 
-Excel
+4. Excel
 
-SQL
+5. SQL
 
 E. Dashboard Pages
 Page 1
 
-HR Overview Metrics (Employees, Attrition, Age, Attrition Rate)
+1. HR Overview Metrics (Employees, Attrition, Age, Attrition Rate)
 
-Attrition by Department
+2. Attrition by Department
 
-Employee Count by Age Band & Department
+3. Employee Count by Age Band & Department
 
-Overtime by Job Role
+4. Overtime by Job Role
 
-Job Satisfaction by Education & Role
+5. Job Satisfaction by Education & Role
 
-Job Satisfaction Rating
+6. Job Satisfaction Rating
 
 Page 2
 
-Attrition by Job Role
+1. Attrition by Job Role
 
-Employee Count by Business Travel & Gender
+2. Employee Count by Business Travel & Gender
 
-Active Employees by Job Role
+3. Active Employees by Job Role
 
-Monthly Income by Education Field
+4. Monthly Income by Education Field
 
 F. Conclusion
 
